@@ -1,2 +1,2 @@
 # hello_world
-first time
+Hello ! I'm first time here ! And I'm beginner at coding
